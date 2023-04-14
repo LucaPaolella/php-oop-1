@@ -8,4 +8,3 @@ ripassate i primi concetti di classe, variabili e metodi d’istanza che abbiamo
 
     vengono istanziati almeno due oggetti ‘Movie’ e stampati a schermo i valori delle relative proprietà
 
-s
